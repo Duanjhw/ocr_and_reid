@@ -1,0 +1,14 @@
+# 任意目录下的pycache目录
+__pycache__/
+
+# game_output目录下的所有文件
+./game_output/*
+./round_output/*
+./runs/*
+./res/*
+
+# 任意目录下的*.pyc文件
+*.pyc
+
+# jpg文件
+*.jpg
